@@ -1,0 +1,48 @@
+/* Fundo geral */
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    background-color: #000000; /* Fundo preto */
+    color: #FFFFFF; /* Texto branco */
+    padding: 0 20px;
+}
+
+/* Cabeçalho */
+header {
+    background: #333333; /* Cinza escuro */
+    color: #FFFFFF;
+    padding: 20px 0;
+    text-align: center;
+}
+
+nav a {
+    color: #1E90FF; /* Azul elétrico */
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #39FF14; /* Verde neon */
+}
+
+/* Títulos */
+h1, h2 {
+    color: #1E90FF; /* Azul elétrico */
+}
+
+/* Botões e Links */
+a {
+    color: #1E90FF; /* Azul elétrico */
+}
+
+a:hover {
+    color: #39FF14; /* Verde neon */
+}
+
+/* Rodapé */
+footer {
+    text-align: center;
+    padding: 10px;
+    background: #333333; /* Cinza escuro */
+    color: #FFFFFF;
+    margin-top: 20px;
+}
